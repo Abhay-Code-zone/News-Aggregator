@@ -53,3 +53,5 @@ This is fragment 8 of 20. The complete story emerges when all fragments are read
 <!-- Fragment 8 whispers: 29 -->
 
 <!-- Fragment 8 whispers: 31 -->
+
+<!-- Fragment 8 whispers: 32 -->
