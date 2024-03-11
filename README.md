@@ -117,3 +117,5 @@ This is fragment 8 of 20. The complete story emerges when all fragments are read
 <!-- Fragment 8 whispers: 74 -->
 
 <!-- Fragment 8 whispers: 76 -->
+
+<!-- Fragment 8 whispers: 78 -->
